@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/samadhan-group/static/css/main.c9133138.css",
+    "main.js": "/samadhan-group/static/js/main.9283442c.js",
+    "static/js/787.f2752203.chunk.js": "/samadhan-group/static/js/787.f2752203.chunk.js",
+    "static/media/IndustryImage.jpg": "/samadhan-group/static/media/IndustryImage.997f59f81ffe43b9c2af.jpg",
+    "static/media/HomePageImage.jpg": "/samadhan-group/static/media/HomePageImage.c641bc777a070dc61899.jpg",
+    "static/media/ContactUsImage.jpg": "/samadhan-group/static/media/ContactUsImage.044f22a9e690efa282ae.jpg",
+    "static/media/AboutUsImage.jpg": "/samadhan-group/static/media/AboutUsImage.8ec4c1275b64ccfa53e6.jpg",
+    "static/media/ProductsImage.jpg": "/samadhan-group/static/media/ProductsImage.3eaae70a00a9094ce522.jpg",
+    "static/media/macro.jpg": "/samadhan-group/static/media/macro.eb023ef868255fba301e.jpg",
+    "static/media/people.jpg": "/samadhan-group/static/media/people.46d1f759c531941ff5df.jpg",
+    "static/media/electrician.jpg": "/samadhan-group/static/media/electrician.450beca6e5b943b1ee06.jpg",
+    "static/media/NEROLAC-LOGO.png": "/samadhan-group/static/media/NEROLAC-LOGO.9ca573d8f2224aaffcd5.png",
+    "static/media/ppg_asian_paints.png": "/samadhan-group/static/media/ppg_asian_paints.c950e783b27cdce0cc92.png",
+    "static/media/first_chem.png": "/samadhan-group/static/media/first_chem.e706f32a9860da1345fa.png",
+    "static/media/HP_adhesives.png": "/samadhan-group/static/media/HP_adhesives.96863ef359402a21116f.png",
+    "static/media/slick.svg": "/samadhan-group/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/samadhan-group/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/samadhan-group/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/samadhan-group/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/samadhan-group/index.html",
+    "main.c9133138.css.map": "/samadhan-group/static/css/main.c9133138.css.map",
+    "main.9283442c.js.map": "/samadhan-group/static/js/main.9283442c.js.map",
+    "787.f2752203.chunk.js.map": "/samadhan-group/static/js/787.f2752203.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9133138.css",
+    "static/js/main.9283442c.js"
+  ]
+}
